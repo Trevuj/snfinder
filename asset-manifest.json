@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/snfinder/static/js/main.dc151282.js",
+    "index.html": "/snfinder/index.html",
+    "main.dc151282.js.map": "/snfinder/static/js/main.dc151282.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dc151282.js"
+  ]
+}
